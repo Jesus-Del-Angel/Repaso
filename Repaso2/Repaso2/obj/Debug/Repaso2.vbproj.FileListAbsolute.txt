@@ -1,0 +1,12 @@
+C:\ROBERTO 24650\Repaso2\Repaso2\bin\Debug\Repaso2.exe.config
+C:\ROBERTO 24650\Repaso2\Repaso2\bin\Debug\Repaso2.exe
+C:\ROBERTO 24650\Repaso2\Repaso2\bin\Debug\Repaso2.pdb
+C:\ROBERTO 24650\Repaso2\Repaso2\bin\Debug\Repaso2.xml
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.vbprojAssemblyReference.cache
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.Form1.resources
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.Resources.resources
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.vbproj.GenerateResource.cache
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.vbproj.CoreCompileInputs.cache
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.exe
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.xml
+C:\ROBERTO 24650\Repaso2\Repaso2\obj\Debug\Repaso2.pdb
